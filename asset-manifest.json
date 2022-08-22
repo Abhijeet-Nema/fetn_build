@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.09dd877a.css",
-    "main.js": "/static/js/main.db2beb94.js",
+    "main.css": "/static/css/main.344d2e89.css",
+    "main.js": "/static/js/main.aa748721.js",
     "static/media/booksIcon.png": "/static/media/booksIcon.05a6613141a99673922d.png",
     "static/media/wishlistIcon.png": "/static/media/wishlistIcon.10c351d896ad48afd566.png",
     "static/media/Loader.gif": "/static/media/Loader.1cbc65b12d68de6e3c23.gif",
@@ -16,16 +16,16 @@
     "static/media/wave_background2.png": "/static/media/wave_background2.afb726bab386663a3748.png",
     "static/media/wave_background.png": "/static/media/wave_background.14c5ef727010f33e10ed.png",
     "static/media/productIcon.png": "/static/media/productIcon.ee9b583cda0bb92b4c9d.png",
+    "static/media/signupCharacter.svg": "/static/media/signupCharacter.93ff3b04e039d88bca9b2eda2ab20c35.svg",
+    "static/media/mobileMascot.svg": "/static/media/mobileMascot.b07ec6dfd9fcdce0407b85e40a7a64f5.svg",
     "static/media/userDefault.png": "/static/media/userDefault.6537f30afd5076cd45ac.png",
     "static/media/emptyWishlist.png": "/static/media/emptyWishlist.35c9702295a16c813e84.png",
+    "static/media/loginSideMascot.svg": "/static/media/loginSideMascot.ff97fc2fdcc3458e13c35b1b7c7efe36.svg",
     "static/media/submarine.svg": "/static/media/submarine.d9aaff4e4005d91e5d7d60252a701119.svg",
     "static/media/blob_background.png": "/static/media/blob_background.fcaf4e5a067585e0051b.png",
-    "static/media/mobileMascot.svg": "/static/media/mobileMascot.56653baa8fafc1706bf96a2eabd9168f.svg",
-    "static/media/signupCharacter.svg": "/static/media/signupCharacter.785149e51fac64eefb62d511783a46ed.svg",
     "static/media/blob_background2.png": "/static/media/blob_background2.36adf2fdd772b47808ba.png",
-    "static/media/loginSideMascot.svg": "/static/media/loginSideMascot.2df2fe557774ebe90cd63f7904979684.svg",
+    "static/media/loginMascot.svg": "/static/media/loginMascot.55a51db521c858f653770d6b99da3a7d.svg",
     "static/media/sellIcon.png": "/static/media/sellIcon.a62a7eb96cbc0dc10bdd.png",
-    "static/media/loginMascot.svg": "/static/media/loginMascot.8865545812a2cce578a980997adabd3a.svg",
     "static/media/peak_background.svg": "/static/media/peak_background.61de38ca9f93936de8c6.svg",
     "static/media/wave2.svg": "/static/media/wave2.bfe715fdfbdfcfaac804.svg",
     "static/media/Fish_1.svg": "/static/media/Fish_1.72c830c76679040688508a8dffa830d0.svg",
@@ -34,11 +34,11 @@
     "static/media/wave3.svg": "/static/media/wave3.666e459e5b3f87f6bedc.svg",
     "static/media/wave.svg": "/static/media/wave.30a9f66dc10bf94c386d.svg",
     "static/media/close.svg": "/static/media/close.b529109f9e749db4bb0b8e57ef345a89.svg",
-    "main.09dd877a.css.map": "/static/css/main.09dd877a.css.map",
-    "main.db2beb94.js.map": "/static/js/main.db2beb94.js.map"
+    "main.344d2e89.css.map": "/static/css/main.344d2e89.css.map",
+    "main.aa748721.js.map": "/static/js/main.aa748721.js.map"
   },
   "entrypoints": [
-    "static/css/main.09dd877a.css",
-    "static/js/main.db2beb94.js"
+    "static/css/main.344d2e89.css",
+    "static/js/main.aa748721.js"
   ]
 }

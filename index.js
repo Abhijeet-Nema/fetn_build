@@ -9,6 +9,13 @@ app.get("/static/:dir/:file", function (req, res) {
     path.join(__dirname, "static", `${req.params.dir}/${req.params.file}`)
   );
 });
+
+app.get("/favicon/:file", function (req, res) {
+  res.sendFile(
+    path.join(__dirname, "favicon", `${req.params.file}`)
+  );
+});
+
 app.get("/*", function (req, res) {
   res.sendFile("index.html", { root: __dirname });
 });

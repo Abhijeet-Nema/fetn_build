@@ -20,6 +20,10 @@ app.get("/google37c8f4fdd8152020.html", function (req, res) {
   res.sendFile("google37c8f4fdd8152020.html", { root: __dirname });
 });
 
+app.get("/sitemap.xml", function (req, res) {
+  res.sendFile("sitemap.xml", { root: __dirname });
+});
+
 app.get("/*", function (req, res) {
   res.sendFile("index.html", { root: __dirname });
 });
